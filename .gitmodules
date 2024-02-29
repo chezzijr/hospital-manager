@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/chezzijr/hospital-manager-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/chezzijr/hospital-manager-frontend
